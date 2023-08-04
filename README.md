@@ -1,11 +1,12 @@
-<div>
+<div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=fccdc9&text=)
 
-### 👋 안녕하세용 👋 
-저는 행복을 꿈꾸는 개발자 지망생 **'dadi💖'** 입니다!
+### 👋 안녕하세용 👋
+#### 저는 행복을 꿈꾸는 개발자 지망생 **'dadi💖'** 입니다!
 
 <br/><br/>
+  
 ### ⚙️ My Tech ⚙️
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -23,7 +24,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 <br/><br/>
-### ✏️ Studying ✏️
+### 📖 Studying 📚
    
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
