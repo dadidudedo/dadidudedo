@@ -2,9 +2,11 @@
 
 ## Hi there 👋
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:daeun113@ajou.ac.kr)
+  [![Sponsor Badge](https://img.shields.io/badge/Sponsor-FFDD00?style=flat&logo=buymeacoffee&logoColor=000000)](https://bmc.link/dadidudedo)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdadidudedo&count_bg=%2379C83D&title_bg=%23555555&icon=powerbi.svg&icon_color=%23E7E7E7&title=hits)](https://hits.seeyoufarm.com)
   [![wakatime](https://wakatime.com/badge/user/797433f7-8e5f-4bb1-8525-a9579561c529.svg)](https://wakatime.com/@797433f7-8e5f-4bb1-8525-a9579561c529)
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=daeun113)](https://solved.ac/daeun113)
+
 
   
 - 📐 Ajou Univ, mathematics
