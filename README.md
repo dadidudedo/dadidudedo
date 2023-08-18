@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fccb90,100:d57eeb&fontColor=ffffff&height=260&section=header&text=%20Welcomeee✨&desc=%20%20dadi's%20Github%20Profile%20:\)&fontSize=55&fontAlign=45&fontAlignY=35&descSize=25&descAlign=60&descAlignY=52&animation=fadeIn)
 
+
 ## Hi there 👋
+
+<img src="./img/olaf3.gif" align="right" height="180"/>
+
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:daeun113@ajou.ac.kr)
   [![Sponsor Badge](https://img.shields.io/badge/Sponsor-FFDD00?style=flat&logo=buymeacoffee&logoColor=000000)](https://bmc.link/dadidudedo)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdadidudedo&count_bg=%2379C83D&title_bg=%23555555&icon=powerbi.svg&icon_color=%23E7E7E7&title=hits)](https://hits.seeyoufarm.com)
